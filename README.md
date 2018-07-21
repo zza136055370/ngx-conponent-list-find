@@ -1,3 +1,11 @@
+
+## 打开方式
+clone项目
+npm i
+ng serve
+##项目概述
+支持、中英文、大小写、首字母搜索
+
 # Component
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
