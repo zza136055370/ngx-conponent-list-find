@@ -8,7 +8,7 @@ ng serve
 支持、中英文、大小写、首字母搜索
 
 
-##项目浏览地址-[不知道怎么直接展现在github上，挂到7牛云上来了]
+##项目浏览地址-[不知道怎么直接展现在github上，挂到7牛了]
 
 http://pc75xso2n.bkt.clouddn.com/index.html
 
